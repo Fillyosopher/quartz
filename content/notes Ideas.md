@@ -1,3 +1,6 @@
+---
+title: "notes Ideas"
+---
 
 - about this site page
 - about the author page

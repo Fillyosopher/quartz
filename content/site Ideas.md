@@ -1,3 +1,7 @@
+---
+title: "site Ideas"
+---
+
 - Add a markdown linter
 - Add a prose linter
 - Add a documentation linter
