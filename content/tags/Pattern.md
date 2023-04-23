@@ -3,14 +3,25 @@ title: "Tag: Pattern"
 tags:
 - tag
 ---
-#tag
+# Patlet
+A Pattern is a collection of ideas which solve a problem in a reusesable way.  They represent a specific style of [[notes/Divio Documentation]] How-to Guide. See [[templates/Pattern]] for this site's template.  This page, itself, is written as a Pattern.
 
-A Pattern is a collection of ideas which solve a problem in a reusesable way.  They represent a fusion of the [[notes/Divio Documentation]] Explanation and How-to Guide.
+# Problem
+A Problem occurs frequently, in a variety of context, with a common solution.  Time is wasted recreating the solution from scratch each time.  It's occassionally unclear if a given instance is similar enough for a previous solution to still apply.
 
-Minimally, they're made of a [[h1/Sazen]], a problem statement, and a solution.
+# Story
 
-Ideally, they are made of
-- A [[h1/Sazen]]
+# Context
+
+# Forces
+
+# Solution
+Document the problem and solution into a Pattern, working backward from Instance up to Patlet.  
+
+Minimally, the Pattern documentation should include a name, a problem statement, and a solution.
+
+Ideally, the Pattern documentation should include
+- A name
 - A [[h1/Patlet]], a single paragraph summary
 - A Problem statement
 - A Story, example of problem state (Green)
@@ -20,6 +31,10 @@ Ideally, they are made of
 - A Resulting Context, which details the state after the solution actions are taken
 - Known Instances, a list of examples where this Pattern was used
 
-# Reference
-- [Inner Source Patterns](https://patterns.innersourcecommons.org/)
-- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+# Resulting Context
+
+# Instances
+- [Inner Source Patterns](https://patterns.innersourcecommons.org/) - where the writing style came from.  Also see: [Their Contributor Handbook](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/meta/contributor-handbook.md)
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - the original location that got me thinking in patterns
+
+#tag #Pattern 
