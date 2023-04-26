@@ -1,8 +1,9 @@
 ---
-title: "{{title}}"
-tag:
+title: "Plural History"
+tags:
 - Draft
 ---
+
 A full Geneology of Prism System's headmate history, so far as we can construct from notes and memories.
 
 > [!info] Draft 

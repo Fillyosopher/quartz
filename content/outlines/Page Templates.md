@@ -1,6 +1,6 @@
 ---
 title: "Outline of Page Templates"
-tag:
+tags:
 - Outline
 ---
 Templates are premade guidelines for how to format content on this site.  As pages are revisited and refined, they are moved to be more and more compliant with the site templates. 

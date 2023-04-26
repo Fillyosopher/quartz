@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
-tag:
+tags:
 - Draft
 ---
 (page summary should go here, otherwise embeds will show the Draft template)

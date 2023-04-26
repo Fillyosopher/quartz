@@ -1,6 +1,6 @@
 ---
 title: "Outline of {{title}}"
-tag:
+tags:
 - Outline
 ---
 (Lead which differentiates the topic from others)

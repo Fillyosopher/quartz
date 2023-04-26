@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Outline Page"
 tags:
 - tag
 - Pattern
