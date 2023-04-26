@@ -4,7 +4,8 @@ tags:
 - Draft
 ---
 > [!info] Draft 
->This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
+> 
+> This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
 
 # Identity as Settings
 - The brain has many sub-organs, but only one of each

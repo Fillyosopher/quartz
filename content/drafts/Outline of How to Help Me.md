@@ -5,7 +5,8 @@ tags:
 - Outline
 ---
 > [!info] Draft 
->This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
+> 
+> This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
 
 Vaguely bored and want to help me out?  There's no expectation that you do so, but for those who want to, this page covers easy and actionable ways to help.
 

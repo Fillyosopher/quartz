@@ -4,7 +4,8 @@ tags:
 - Draft
 ---
 > [!info] Draft 
->This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
+> 
+> This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
 
 # The Outline
 The Genuine Self is who you are when you exert very little willpower.

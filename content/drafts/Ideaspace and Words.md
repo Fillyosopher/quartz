@@ -4,7 +4,8 @@ tags:
 - Draft
 ---
 > [!info] Draft 
->This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
+> 
+> This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
 
 Ideaspace is one of the foundational analogy of this site. Ideaspace treats ideas as literal territory to be navigated.  Intuitive Distance becomes physical distance, Notability becomes regonal landmarks.
 
@@ -20,7 +21,7 @@ These are connections used to navigate between specialist concept areas
 Professionals don't just need to locate the ideaspace, they need to navigate it.  Unlike with First Order words, there might not be any notable landmark associated with Second Order words. These words are often found by a sort of communal factor analysis, finding what concepts are used most often by those working in the space and naming them.  By analogy, these are the "local pub", where any local knows where you mean but foreigners would not.
 
 ## Inner Transition connections
-These are well worn paths used to navigate from First Order words to Second Order words.  They often take the form of [[tags/Pattern]], describing a problem with the First Order word and how to derive the Second Order solution.  By analogy, these are the paths that locals travel to meet foreigners.
+These are well worn paths used to navigate from First Order words to Second Order words.  They often take the form of [[patterns/Pattern Page]], describing a problem with the First Order word and how to derive the Second Order solution.  By analogy, these are the paths that locals travel to meet foreigners.
 
 ## Second Order connections
 These are the connections between Second Order words.  In a newly explored area, there will be few of these, with most connections being Inner Transition.  But as a field becomes better known, the Second Order connections with become more numerous and well established.  By analogy, these are the hunting trails that slowly become the local roads.
