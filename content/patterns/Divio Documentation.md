@@ -16,14 +16,13 @@ Leading to four types of documentation:
 - How-To Guides are problem oriented, for Practical Work
 - Reference Documents are information oriented, for Theoretical Work
 
-
 # Instances
 ## This Website
 - The Templates for this site are heavily inspired by the Divio Documentation system.
-	- Patterns are a [[Long Content]] version of How-To Guides
+	- Patterns are a [[patterns/Long Content]] version of How-To Guides
 
 # Reference
 [External Link](https://documentation.divio.com/how-to-guides/)
 
 
-#pattern 
+#Pattern #Quality-1 

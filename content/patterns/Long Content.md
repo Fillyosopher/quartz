@@ -42,4 +42,4 @@ Therefore, treat every piece of content as a draft.  When it is revisited, eithe
 - Gwern's [Long Content](https://gwern.net/about#long-content)  - where I first encountered the concept
 - This Site
 
-#Pattern 
+#Pattern #Quality-2

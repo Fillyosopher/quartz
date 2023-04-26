@@ -7,17 +7,16 @@ title: "notes Ideas"
 - everything from evernote
 - everything from notepad++
 - everything from my other Vaults
-
+- https://en.wikipedia.org/wiki/Special:PrefixIndex/Outline_of
 
 # Patterns
-Put a number at the front each time you see an idea and think it's good.
+Put a number at the front each time you see an idea and think it's good. (helps with [[Content Lifecycle]])
 - 1- Square Breathing: [https://youtu.be/bF_1ZiFta-E](https://youtu.be/bF_1ZiFta-E "https://youtu.be/bF_1ZiFta-E")
 
 # Meta Concepts
 - Relevance Halflife - How long will this remain useful?  Informs what type of memory to place it in.
 - Predicted Truth - How likely is this to be true? (Half of emulating a Bayesian Reasoner)
 - Evidence Level - How resistant should I be to altering my Predicted Truth? (Half of emulating a Bayesian Reasoner)
-- 
 
 # Misc
 ## Sociology:
@@ -47,6 +46,7 @@ Put a number at the front each time you see an idea and think it's good.
 ## Psychology:
 - Plurality vs Median vs Singleton: lens don't effect morality
 - Plurality Origins: habits, consciousness, and expectations
+- Plurality computation analogy: disk share, RAM share, CPU share, Settings files, Parallel as threading + setting switchs, Merge as blended settings, etc
 - Medianness: Masks, Servitor, Holograms, Facets, Splinters
 - Blending: Possession, Eclipses, Co-fronting, Merging
 - Conscious vs Subconscious: System 1 vs System 2

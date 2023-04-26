@@ -2,9 +2,10 @@
 title: "Tag: Pattern"
 tags:
 - tag
+- Pattern
 ---
 # Patlet
-A Pattern is a collection of ideas which solve a problem in a reusesable way.  They represent a specific style of [[notes/Divio Documentation]] How-to Guide. See [[templates/Pattern]] for this site's template.  This page, itself, is written as a Pattern.
+A Pattern is a collection of ideas which solve a problem in a reusesable way.  They represent a specific style of [[patterns/Divio Documentation]] How-to Guide. See [[templates/Pattern]] for this site's template.  This page, itself, is written as a Pattern.
 
 # Problem
 A Problem occurs frequently, in a variety of context, with a common solution.  Time is wasted recreating the solution from scratch each time.  It's occassionally unclear if a given instance is similar enough for a previous solution to still apply.
@@ -37,4 +38,4 @@ Ideally, the Pattern documentation should include
 - [Inner Source Patterns](https://patterns.innersourcecommons.org/) - where the writing style came from.  Also see: [Their Contributor Handbook](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/meta/contributor-handbook.md)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - the original location that got me thinking in patterns
 
-#tag #Pattern 
+#tag #Pattern #Quality-1 

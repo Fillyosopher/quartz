@@ -1,5 +1,12 @@
+---
+title: "Ideaspace and Words"
+tags:
+- Draft
+---
+> [!info] Draft 
+>This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
 
-Ideaspace treats ideas as literal territory to be navigated.  Intuition Distance becomes physical distance, Notability becomes regonal landmarks
+Ideaspace is one of the foundational analogy of this site. Ideaspace treats ideas as literal territory to be navigated.  Intuitive Distance becomes physical distance, Notability becomes regonal landmarks.
 
 # First Order words
 These are the words that allow a novice to locate the ideaspace.  They are placed in the most obvious locations.  By analogy, on the tallest cliff point of the tallest cliff, visible for miles in all directions.
@@ -22,6 +29,6 @@ These are the connections between Second Order words.  In a newly explored area,
 These are the connections from Second Order words in one locale to another.  They represent non-intuitive connections between ideaspaces, things that only experts of one or the other field could find.  Outer Transitions are the most common way for new First Order words to be discovered.  By analogy, these are the secret or rarely used trails between settlements.
 
 ## Third Order words
-Third Order words can also be thought of as a subsection of Second Order.  They are words which have no direct connection to First Order words.  These are often called Jargon, words which can only be explained in terms of concepts which are, themself, difficult to understand for an outside. By analogy, these are the hidden old shack that's out in the woods with no obvious path, but everyone knows its out there and talks about it sometimes.
+Third Order words can also be thought of as a subsection of Second Order.  They are words which have no direct connection to First Order words.  These are often called Jargon, words which can only be explained in terms of concepts which are, themself, difficult to understand for an outside.  Attempting to explain them often results in [[h1/Sazen]]. By analogy, these are the hidden old shack that's out in the woods with no obvious path, but everyone knows its out there and talks about it sometimes.
 
 #draft
