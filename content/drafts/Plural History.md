@@ -6,8 +6,8 @@ tags:
 
 A full Geneology of Prism System's headmate history, so far as we can construct from notes and memories.
 
-> [!info] Draft 
-> 
+> [!info] Draft
+>
 > This is a Draft. It may not comply with the site [[outlines/Page Templates]]. See [[Content Lifecycle]] for more information on Drafts.
 
 ```mermaid
@@ -325,4 +325,4 @@ graph TD
 
 ```
 
-#draft 
+#draft

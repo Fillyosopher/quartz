@@ -1,0 +1,7 @@
+{
+  "config": {
+    "single-h1": false,
+    "no-missing-space-atx": false
+  },
+  "fix": true
+}

@@ -7,19 +7,33 @@ title: "notes Ideas"
 - everything from evernote
 - everything from notepad++
 - everything from my other Vaults
-- https://en.wikipedia.org/wiki/Special:PrefixIndex/Outline_of
+-
+- <https://en.wikipedia.org/wiki/Special:PrefixIndex/Outline_of>
+- <https://qualiaresearch.miraheze.org/wiki/Unified_Happiness_SuperMetaEngineering_using_Computational_MetaNeuroPsychological_Free_Energy_Principlal_Annealed_Topological_Biochemical_Electromagnetic_Predictive_Consonant_Symmetrical_Field-like_Ocean-like_Groundless_Ground_Gestalt>
+- [https://www.microsolidarity.cc/](https://www.microsolidarity.cc/ "https://www.microsolidarity.cc/")
+- <https://www.shopify.com/partners/blog/ux-laws>
+- Sentience, Sapience, Sophonce: <https://www.orionsarm.com/eg-topic/45b1774e4ba77>
+- Risk Ignorance vs Risk Arrogance: <https://safetyrisk.net/risk-ignorance-and-risk-arrogance/>
+- Useful Prediction Classes: <https://www.lesswrong.com/posts/x4GmqcwjFTnWeRiud/16-types-of-useful-predictions>
+- Library for Kinksters: <https://cywscross.tumblr.com/post/120795433695/updated-library-for-kinksters>
+- <https://brainscale.net/app/dual-n-back/training>
 
 # Patterns
+
 Put a number at the front each time you see an idea and think it's good. (helps with [[Content Lifecycle]])
+
 - 1- Square Breathing: [https://youtu.be/bF_1ZiFta-E](https://youtu.be/bF_1ZiFta-E "https://youtu.be/bF_1ZiFta-E")
 
 # Meta Concepts
+
 - Relevance Halflife - How long will this remain useful?  Informs what type of memory to place it in.
 - Predicted Truth - How likely is this to be true? (Half of emulating a Bayesian Reasoner)
 - Evidence Level - How resistant should I be to altering my Predicted Truth? (Half of emulating a Bayesian Reasoner)
 
 # Misc
-## Sociology:
+
+## Sociology
+
 - Land Value Tax: the solution to the housing crisis
 - Mixed Zoning: the solution to walkable cities
 - 3 types of roads: the solution to speeding and unwalkable roads
@@ -29,7 +43,8 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 - Conservatives hate you (proactively), Libs hate you (reactively)
 - Scaling People count requires Scaling Governance
 
-## Relationships:
+## Relationships
+
 - Blame is useless: why blameless retrospectives are strictly superior
 - Polyamory vs Monogamy: the pros and cons of compersionrp and jealousy
 - Asexuality vs the Sex Fetish
@@ -37,13 +52,14 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 - Elements of Consent, and other things to check before sex happens
 - A guide for having fun with friends
 - Relationships: Mutual benefit, Leachs, and Toxic
--  Mirroring: how to make any conversation better
+- Mirroring: how to make any conversation better
 - Boundaries: soft/hard and trades
 - Fight, Flight, Freeze, Fawn: Danger Responses
 - Age differences in relationships
 - Domming: soft&hard, light&dark
 
-## Psychology:
+## Psychology
+
 - Plurality vs Median vs Singleton: lens don't effect morality
 - Plurality Origins: habits, consciousness, and expectations
 - Plurality computation analogy: disk share, RAM share, CPU share, Settings files, Parallel as threading + setting switchs, Merge as blended settings, etc
@@ -71,18 +87,21 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 - Inner Speaker, Inner Listener
 - Sensory Timing Mismatches, Subconscious Training, and Schizophrenia
 
-## Metaethics:
+## Metaethics
+
 - Factor Analysis: how to optimize your terms
 - Ideaspace, Flags, and Boundaries: How we add definition to thoughts
 - Truth as Prediction + Evidence + Chance
 
-## Creation:
+## Creation
+
 - Hypnosis Danger Ratings: How to make your hypno less effective
 - Doing Randomness Right in games
 - Food models: Student Value, Processedness,
-- Muscle and Weight: http://liamrosen.com/fitness.html
+- Muscle and Weight: <http://liamrosen.com/fitness.html>
 
-## Productivity:
+## Productivity
+
 - Unexpected Tool Use: how Homuncular Flexibility allows brain extensions
 - Anki: Progressive repitition as the key to memory
 - Getting Things Done: Emptying your mental RAM with effective note taking
@@ -91,6 +110,7 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 - Agile Teams: Become Specialists Together
 
 ## New Threads
+
 - Novelty vs Nostalgia
 - Attachment Theory: [https://cdn.catgirl.technology/txt/attachtp.pdf](https://cdn.catgirl.technology/txt/attachtp.pdf)
 - Self-Love versus Shame
@@ -99,6 +119,7 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 
 Dr. Peggy Kleinplatz Magnificent Sex:
 It turns out, rather unexpectedly, that magnificent sex is a clearly identifiable experience with eight quite strong identifiable characteristics:
+
 - Being present, focused and embodied
 - Connection, alignment, merger, being in synch
 - Deep sexual and erotic intimacy

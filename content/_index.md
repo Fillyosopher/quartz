@@ -16,6 +16,7 @@ More importantly, I *need* note taking for my own sanity, as I have lingering me
 As such, future me is the primary audience, but what's fit for future me may also be fit for others :)
 
 ## Where to start
+
 - [[tags/Outline|List of Outline Pages]]
 - [[tags/Pattern|List of Pattern Pages]]
 - [[Content Lifecycle]]
