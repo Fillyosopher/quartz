@@ -1,8 +1,10 @@
 ---
 title: "Outline of {{title}}"
+created: "{{date}}"
 tags:
 - Outline
 ---
+
 (Lead which differentiates the topic from others)
 
 # Related Outlines

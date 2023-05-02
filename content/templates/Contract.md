@@ -1,9 +1,9 @@
 ---
 title: "{{title}}"
+created: "{{date}}"
 tags:
 - Contract
 ---
-
 # Overview
 
 (Goals should be SMART)

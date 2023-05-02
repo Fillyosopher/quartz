@@ -1,8 +1,10 @@
 ---
 title: "{{title}}"
+created: "{{date}}"
 tags:
 - Pattern
 ---
+
 # Patlet
 
 # Problem

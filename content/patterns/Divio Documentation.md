@@ -5,7 +5,7 @@ tags:
 ---
 # Patlet
 
-The Divio Documentation system splits documentation along two axis into 4 possible types.  This allows the writer to focus on a particular audience, and results in superior documentation.
+The Divio Documentation system splits documentation along two axis into 4 possible types. This allows the writer to focus on a particular audience, and results in superior documentation.
 
 The two axis are:
 

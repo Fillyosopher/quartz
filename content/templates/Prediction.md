@@ -1,12 +1,13 @@
 ---
 title: "{{title}}"
+created: "{{date}}"
 tags:
 - Prediction
 ---
 # Summary
->
-> [!abstract] {{Catchy Name}}
-> {{Basic Description}}
+
+> [!abstract] (The Question)
+> (Quick Description and personal prediction)
 
 # Prediction
 

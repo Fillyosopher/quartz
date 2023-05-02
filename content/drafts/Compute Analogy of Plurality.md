@@ -10,9 +10,9 @@ tags:
 # Identity as Settings
 
 - The brain has many sub-organs, but only one of each
-  - Example, try to narrative your thoughts.  Now try to narrate another thought at the same time.
+  - Example, try to narrative your thoughts. Now try to narrate another thought at the same time.
 - sub-organs are often configurable, although they can't always be changed quickly
-  - Imagine your inner voice in a high pitch.  now imagine it in a lower pitch
+  - Imagine your inner voice in a high pitch. now imagine it in a lower pitch
 - in plurality, a collection of settings becomes recognizably distinct from either the "default" or from other settings
 
 # Thoughts as a data stream

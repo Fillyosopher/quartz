@@ -3,11 +3,12 @@ title: "Ikigai"
 tags:
 - Pattern
 ---
+
 ![[patterns/attachments/meaning_in_life.jpg]]
 
 # Patlet
 
-It's easy, in life, to get stuck in habits that leave you unfulfilled.  It can be difficult to find a lens that explains chronic unfulfilledment.  Ikigai involves asking four questions to uncover specific types of fulfillment, so that one can reify their desires and aim to encorporate all four areas of fulfillment in their life.
+It's easy, in life, to get stuck in habits that leave you unfulfilled. It can be difficult to find a lens that explains chronic unfulfilledment. Ikigai involves asking four questions to uncover specific types of fulfillment, so that one can reify their desires and aim to encorporate all four areas of fulfillment in their life.
 
 # Problem
 
@@ -28,7 +29,7 @@ Start by asking 4 Questions:
 3. What do you love doing?
 4. What can you do that the world needs?
 
-Each of these should have a subtly different answer.  Each represents one of the four ways people find fulfillment in life.  These can also lead to interesting insights
+Each of these should have a subtly different answer. Each represents one of the four ways people find fulfillment in life. These can also lead to interesting insights
 
 Unintuitive distinctions:
 
