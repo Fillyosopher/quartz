@@ -3,7 +3,7 @@ title: "Ikigai"
 tags:
 - Pattern
 ---
-![[patterns/attachments/Meaning in Life.jpg]]
+![[patterns/attachments/meaning_in_life.jpg]]
 
 # Patlet
 
