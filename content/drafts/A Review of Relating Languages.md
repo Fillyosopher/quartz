@@ -1,13 +1,14 @@
 ---
 title: "A Review of Relating Languages"
+created: "2023-06-20"
 tags:
 - Draft
 ---
+Relating Languages is a model of language between people. As an autistic person with decades of refining my masks, I find this concept fascinating. One of the problems I had, growing up, was a lack of explicit instruction about how communication works. I made a study of it, and developed a few models of my own. However, my models have always struggled to categorize the encoded aspects of communication, and that where Relating Languages shines.
+
 > [!info] Draft
 >
 > This is a Draft. It may not comply with the site Templates. It may be renamed or moved in the future. See [[Content Lifecycle]] for more information on Drafts.
-
-Relating Languages is a model of language between people. As an autistic person with decades of refining my masks, I find this concept fascinating. One of the problems I had, growing up, was a lack of explicit instruction about how communication works. I made a study of it, and developed a few models of my own. However, my models have always struggled to categorize the encoded aspects of communication, and that where Relating Languages shines.
 
 In this Review, I'm going to attempt a summary of Relating Language Overview, a free document from <https://www.relatinglanguages.com>. Afterward, I'm going to dig deeper into each portion of the model, to see what is intuitive or counter intuitive for me.
 
@@ -64,31 +65,72 @@ This section is also lays out an implicit growth path for someone using Relating
 - **Commanding**: This is the Internal Dialect of Interactive, the Expressive and Interactive quadrant. Commanding is about applying the maximum of pressure, often from a personal desire standpoint, in order to get someone to change.
 - **Conducting**:  This is the Balanced Dialect of Interactive, the Expressive and Interactive quadrant. Conducting is about being clear with your desires, while leaving room for counter-offers, contributions, and collaboration.
 
+### Secondary Model: 3 Language Niche
+
+The 3 Language Niche are mentioned in amore offhand way in the Overview document, and are not a core lens of the model.
+
+- **Safety Language**: The Quadrant or Dialects you use around friends and in safe places.  What you Default to when not intentionally masking. Your [[drafts/Genuine vs Authentic|Genuine]] Language.
+- **Stress Language**: The Quadrant or Dialects you use when threatened or unsafe. What you Default to when under strain or in high Noradrenaline states.
+- **Social Language**: "Change depending on the context of the group." It's a bit unclear from the document what Social Language means.
+
+My best guess is that Social Language means your [[drafts/Genuine vs Authentic|Authentic]] mode of speaking, the kind you are trying out or learning.  But I could be completely off base
+
 ## Review
 
 ### Overall
 
 I love this model, and will likely be using a modified form of it going forward for my Mental Health Coaching. It has incredible documentation already, which makes it useful as a starting point when trying to establish common terms with someone.
 
+### Another Pill for Typical Mind Fallacy
+
+One of the biggest problems I see people running into is small scale [Typical Mind Fallacy](https://www.lesswrong.com/tag/typical-mind-fallacy).  The way this plays out is one person has a limited amount of communication experience and assumes that experience is the default.  Other people start to look like "broken" versions of themself... which is a rather anti-social lens to use.
+
+Relating Languages provides an alternate lens: there are many Dialects people use when Relating to others! Treating your preferred version as either perfect or the only option is a recipe for misunderstanding.  It's three axis represent the different ways preferences people have for their speech: how long are the turns, how are they passed, and who is the focus.
+
+By learning the sheer variety of ways others talk, you can start to educate yourself about [[drafts/Normal is who you meet|what is Normal]]. By watching people use a different speaking mode, you can dismantle your assumptions about effective communication and see the broader field of options.  By looking internally, you can find what skills you lack and develop a practice plan for growth.
+
 ### Expressive-Receptive Axis and the hidden Speaker-Listener skill Axis
 
-I feel like the authors themselves tend to conflate Expressive with Speaker, and Receptive with Listener, in a way I do not think their base axis support. This is the only location I saw one part of the document contradicting another, albeit in a small way.
+This section relies on an assumption.  The assumption is this: "You should attempt to use the same Dialect as your speaking partner by default."  To be clear, this assumption is not explicitly stated by the Relating Languages Overview!  There are hints of it though: the name [dialect](https://en.wikipedia.org/wiki/Dialect) itself implies that different Relating Languages are "mutually intelligible", but as someone who has moved around a lot I can tell you that mirroring the local dialect always helps smooth communication.
 
-For example, I would expect a Storytelling communicator to want an Observing Audience, based on the descriptions. All of the words used for Storytelling seem to imply they're the center of attention, constantly talking, while the wording of Observing implies being a listener. And yet that's NOT what it's about, according to the Expressive-Receptive Axis.
+To be clear, this might not be the author's intent at all.  This might be me smuggling in a concept from Color Model and assuming it applies here.  Still, if we go forward with that assumption, that two people using the same RL Dialect will communicate better than those using two different Dialects... we hit on an interesting problem.  It seems like the authors themselves tend to conflate Expressive with Speaking and Receptive with Listening... when there are fairly obvious skillsets around "Expressive Listening" and "Receptive Speaking".
 
-Lets focus on Storytellers. A Storyteller is taking their long turn, spelling out the major events of the story... while the audience does what? If the Audience is made up Observers, they will be silent and listen until the end. That doesn't sound like a very Expressive interaction! Expressive interactions are supposed to have people taking over the turn!
+For example, based on their descriptions, RL would expect a Storytelling communicator to want an Observing Audience. All of the words used for Storytelling seem to imply they're the center of attention, constantly talking, while the wording of Observing implies active listening with few words said. But that breaks with the concept of Mirroring Dialect; couldn't a Storyteller want a Storytelling audience?
 
-In my experience, what a group of Storytellers actually do is have one tell their story while others chime in with extra little details, asides, and quirks. Never quite interrupting the primary flow, but instead adding to it quickly. They certainly aren't SILENT.
+Lets dig into that. A Storyteller is taking their long turn, spelling out the major events of the story... while the audience does what? If the Audience is made up Observers, they will be silent and listen until the end. That doesn't sound like a very Expressive interaction! Expressive interactions are supposed to have people taking over the turn informally!
 
-To me, it's just obvious that Storytelling is TWO SKILLS. There is the Storytelling Speaker, and there is the Storytelling listener. The Storytelling speaker expects and allows for interruptions, despite the long turns, and the Storytelling listener expects to be able to add on even while listening. A crowd of Storytellers create a story cooperatively, despite having one leading. It might even be a faux pas to /not/ interact with the story in any way, to be a complete Observer with nothing to say, no banter to contribute.
+In my experience, what a group of Storytellers actually do is have one tell their story while others chime in with extra little details, asides, and quirks. Never quite interrupting the primary flow, but instead adding to it quickly. The audience certainly isn't SILENT. Mirroring the speaker's Storytelling energy involves adding in!
 
-I think the model could use this additional Speaker-Listener axis, although I can understand it being missing from the overview. It just seems to me that those skills are separate! Storytelling is both a speaking skill and a listening one, and it's very easy to learn those separately.
+To me, it's just obvious that Storytelling(and the other quadrants) involve TWO SKILLS. There is the Storytelling Speaker, and there is the Storytelling Listener. The Storytelling speaker expects and allows for interruptions, despite the long turns, and the Storytelling listener expects to be able to add on even while listening. A crowd of Storytellers create a story cooperatively, despite having one lead. It might even be a faux pas to /not/ interact with the story in any way, to be a complete Observer with nothing to say, no banter to contribute. (Can you tell I've made this mistake before?)
 
-As a personal example, I'm quite good at "Directing"... as a listener. I know how to accept suggestions and respond to them without giving suggestions in return. And that skill has not made me *any* better at Directing as a speaker, something I'm not rapidly trying to learn because of my new job role.
+I think the model could use this additional Speaker-Listener axis, although I can understand it being missing from the overview. It would add a fourth dimension, and that's just too much for more people to use when they're just learning a new model!  Starting with less axis is good... but having the option of finer-grained analysis and skills is also good.  
+
+As a personal example, I'm quite good at "Directing"... as a listener. I know how to accept suggestions and respond to them without giving suggestions in return. And that skill has not made me *any* better at Directing as a speaker, something I'm not rapidly trying to learn because of my new job role.  Knowing the difference helps me isolate what skills I need to practice.
 
 ### External-Internal Axis and BDSM
 
-What I find most interesting about the External-Internal Axis and how completely this overlaps with BDSM speech expectations. It would seem to me that setting the Balanced Dialect as the standard is good for the vast majority of interactions, as Egalitarian communication is the default culture. But I find it quite funny how well the External and Internal Dialects describe optimal Power Dynamic Language! Servants are almost universally encouraged to learn and use External focused Dialects, and Masters are almost universally expected to use Internal focused Dialects. Given the author notes BDSM as a source of inspiration, I'm certain this is not a mistake in the model, but it still tickles me to see.
+What I find most interesting about the External-Internal Axis and how the poles of each map near-perfectly to BDSM speech expectations.  Yes, Balanced Dialect is framed (correctly) as the standard for the vast majority of interactions. Egalitarian communication is the default culture and Balanced Dialects match those expectations perfects. But the poles of the External-Internal Axis so accurately map to "Dom" and "Sub" communication tropes that you could use them as a guide.  Given the author notes BDSM as a source of inspiration, I'm certain this is not a mistake in the model, but it still tickles me to see.
+
+It's to the point that I would honestly consider Relating Languages as a follow-up to [[drafts/A Review of Real Service|Real Service]] for people looking to have long running Relationship Dynamics.  And definitely for Polyamorous people who need to be able to switch Dialect based on which partner they're talking with.
+
+#### The "Good" Dialects of Relating Languages
+
+- Exploring: Egalitarian way of questioning.
+- Partaking: Egalitarian way of observing.
+- Conveying: Egalitarian way of storytelling.
+- Conducting: Egalitarian way of directing.
+
+#### The "Bad" Dialects of Relating Languages
+
+- Interrogating: Dom way of questioning.
+- Withdrawing: Dom way of observing.
+- Informing: Dom way of storytelling.
+- Commanding: Dom way of directing.
+
+- Serving: Sub way of questioning.
+- Merging: Sub way of observing.
+- Performing: Sub way of storytelling.
+- Suggesting: Sub way of directing.
 
 ### Color Model and Relating Languages
 

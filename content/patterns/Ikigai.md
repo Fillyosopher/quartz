@@ -8,7 +8,7 @@ tags:
 
 # Patlet
 
-It's easy, in life, to get stuck in habits that leave you unfulfilled. It can be difficult to find a lens that explains chronic unfulfilledment. Ikigai involves asking four questions to uncover specific types of fulfillment, so that one can reify their desires and aim to encorporate all four areas of fulfillment in their life.
+It's easy, in life, to get stuck in habits that leave you unfulfilled. It can be difficult to find a lens that explains chronic unfulfillment. Ikigai involves asking four questions to uncover specific types of fulfillment, so that one can reify their desires and aim to incorporate all four areas of fulfillment in their life.
 
 # Problem
 
@@ -42,7 +42,7 @@ If there happens to be a shared answer, then things are straight forward!  Pursu
 
 # Instances
 
-- Personal: Ikigai Model h
+- Personal: ...
 
 # References
 

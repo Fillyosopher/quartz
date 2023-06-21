@@ -7,7 +7,7 @@ tags:
 >
 > This is a Draft. It may not comply with the site Templates. See [[Content Lifecycle]] for more information on Drafts.
 
-Ideaspace is one of the foundational analogy of this site. Ideaspace treats ideas as literal territory to be navigated. Intuitive Distance becomes physical distance, Notability becomes regonal landmarks.
+Ideaspace is one of the foundational analogy of this site. Ideaspace treats ideas as literal territory to be navigated. Intuitive Distance becomes physical distance, Notability becomes regional landmarks.
 
 # First Order words
 

@@ -20,7 +20,7 @@ A Problem occurs frequently, in a variety of context, with a common solution. Ti
 
 # Solution
 
-Document the problem and solution into a Pattern, working backward from Instance up to Patlet. 
+Document the problem and solution into a Pattern, working backward from Instance up to Patlet.
 
 Minimally, the Pattern documentation should include a name, a problem statement, and a solution.
 

@@ -1,5 +1,6 @@
 ---
 title: "Model of Relationship Optimization"
+created: "2023-06-21"
 tags:
 - Draft
 ---

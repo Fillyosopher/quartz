@@ -1,13 +1,16 @@
 ---
 title: "A Review of Real Service"
+created: "2023-06-20"
 tags:
 - Draft
 ---
+
+Real Service is a book by [Raven Kaldera](https://ravenkaldera.org/) discussing long-running service relationship dynamics.  Originally, this page was an Outline of the book. But I found it much more useful to structure this into a list of the Core Models of the work. The result is not in quite the same order that the book presents things.
+
 > [!info] Draft
 >
 > This is a Draft. It may not comply with the site Templates. It may be renamed or moved in the future. See [[Content Lifecycle]] for more information on Drafts.
 
-Originally, this was an Outline of the book. But I found it much more useful to structure this into a list of the Core Models of the work. The result is not in quite the same order that the book presents things.
 
 # Core Models
 
