@@ -9,6 +9,6 @@ tags:
 
 > [!info] Draft
 >
-> This is a Draft. It may not comply with the site [[outlines/Page Templates]]. See [[Content Lifecycle]] for more information on Drafts.
+> This is a Draft. It may not comply with the site [[outlines/Page Templates]]. It may be renamed or moved in the future. See [[Content Lifecycle]] for more information on Drafts.
 
 #draft
