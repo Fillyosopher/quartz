@@ -35,6 +35,8 @@ While this model is primarily for "Relationships" in the sense of two people int
   - Good Egoism benefits you more than it harms your partner, thus bringing the relationship closer to mutual benefit. It shifts the relationship toward Symbiotic and Parasitic.
   - Bad Egoism, AKA Narcissism, harms your partner more than it benefits you. It shifts the relationship toward Parasitic and Toxic.
 
+(Related: Game Theory "Spite")
+
 ### 4 methods of Relationship Optimization
 
 - **Promote Good Altruism**: Look for cases where your Skills make it easy to help your partner, or where their Skill perfectly solve a your desires. Encourage asking eachother for help where the other person is strong or experienced, where a little bit of effort from them will save you a ton of time.

@@ -16,9 +16,9 @@ In this Review, I'm going to attempt a summary of Relating Language Overview, a 
 
 ### 3 Axis of Relating Languages
 
-- **Receptive - Expressive Axis**: This axis indicates the amount of Proactivity in one's speech patterns. A Receptive communicator is more likely to be waiting for a prompt or handing over (give) turns, while an Expressive communicator is more likely to initiate conversation or take over the turn.
-- **Interactive - Didactic Axis**: This axis indicates the length of turns during an interaction. An Interactive communicator tends toward high frequency turn-taking, keeping alignment with the listener through constant checks and short feedback loops. Meanwhile a Didactic communicator tends toward longer high content turns, keeping alignment with the listener through fully explaining before handing off speaking role.
-- **External - Internal Axis**: This axis indicates how much the speaker is focusing on themselves or their listener. While not used for the Quadrants, this axis is used to differentiate the 8 base languages. Meanwhile the 4 Balanced Languages sit in the middle of this axis, balancing both sides.
+- **Receptive - Expressive Axis**: This bimodal axis indicates the amount of Proactivity in one's speech patterns. A Receptive communicator is more likely to be waiting for a prompt or handing over (give) turns, while an Expressive communicator is more likely to initiate conversation or take over the turn.
+- **Interactive - Didactic Axis**: This bimodal axis indicates the length of turns during an interaction. An Interactive communicator tends toward high frequency turn-taking, keeping alignment with the listener through constant checks and short feedback loops. Meanwhile a Didactic communicator tends toward longer high content turns, keeping alignment with the listener through fully explaining before handing off speaking role.
+- **External - Balanced - Internal Axis**: This trimodal axis indicates how much the speaker is focusing on themselves or their listener. While not used for the Quadrants, this axis is used to differentiate the 8 base languages. Meanwhile the 4 Balanced Languages sit in the middle of this axis, balancing both sides.
 
 I definitely feel like I struggle most with the Expressive mode, of the 4 poles.
 
@@ -126,7 +126,6 @@ It's to the point that I would honestly consider Relating Languages as a follow-
 - Withdrawing: Dom way of observing.
 - Informing: Dom way of storytelling.
 - Commanding: Dom way of directing.
-
 - Serving: Sub way of questioning.
 - Merging: Sub way of observing.
 - Performing: Sub way of storytelling.

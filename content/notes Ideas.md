@@ -17,6 +17,8 @@ title: "notes Ideas"
 - Useful Prediction Classes: <https://www.lesswrong.com/posts/x4GmqcwjFTnWeRiud/16-types-of-useful-predictions>
 - Library for Kinksters: <https://cywscross.tumblr.com/post/120795433695/updated-library-for-kinksters>
 - <https://brainscale.net/app/dual-n-back/training>
+- [https://en.wikipedia.org/wiki/Double_empathy_problem](https://en.wikipedia.org/wiki/Double_empathy_problem "https://en.wikipedia.org/wiki/Double_empathy_problem")
+- AQAL Integral Development
 
 # Patterns
 
@@ -57,6 +59,7 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 - Fight, Flight, Freeze, Fawn: Danger Responses
 - Age differences in relationships
 - Domming: soft&hard, light&dark
+- https://en.wikipedia.org/wiki/Moral_foundations_theory: Care/Harm, Fairness/Cheating, Loyalty/Betrayal, Authority/Subversion, Sanctity/Degradation, Liberty/Oppression
 
 ## Psychology
 
@@ -115,7 +118,9 @@ Put a number at the front each time you see an idea and think it's good. (helps 
 - Attachment Theory: [https://cdn.catgirl.technology/txt/attachtp.pdf](https://cdn.catgirl.technology/txt/attachtp.pdf)
 - Self-Love versus Shame
 - Phatic vs Anti-inductive Communication & Signals: Red fights Orange
+- https://en.wikipedia.org/wiki/Template:Evolutionary_psychology
 - Typography of Sex: Bad sex (boring/unsatisfying), Adrenal sex (new, fast, scary), Oxytocin sex (familiar, loving), Magnificent Sex
+- 
 
 Dr. Peggy Kleinplatz Magnificent Sex:
 It turns out, rather unexpectedly, that magnificent sex is a clearly identifiable experience with eight quite strong identifiable characteristics:

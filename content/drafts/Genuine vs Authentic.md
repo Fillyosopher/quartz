@@ -11,7 +11,7 @@ tags:
 
 The Genuine Self is who you are when you exert very little willpower.
 The Authentic Self is who you try to be, and usually requires willpower to force your Genuine Self into that shape.
-The Social Self-space is the area of acceptible Authentic Self in a given culture. It's a field, with some being more acceptable, and some limit of "no longer acceptible". Different people have different Space-following behavior.
+The Social Self-space is the area of acceptable Authentic Self in a given culture. It's a field, with some being more acceptable, and some limit of "no longer acceptable". Different people have different Space-following behavior.
 The resulting presentation of self is a gestalt between all 3 influences, and constantly changes as each of the three change.
 
 # Derived Concepts

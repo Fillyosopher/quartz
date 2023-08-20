@@ -1,0 +1,48 @@
+
+
+## Outline
+- I've been troubled by the External-Internal Axis
+	- The failure mode of "Interrogation" isn't "too much selfishness"
+	- Calling it "Internal Dialect" (too much selfishness) doesn't help someone fix it
+- Alternate model, Creating Mismatched Expectations
+	- You're in Directing Mode
+	- You ask a question, inadvertently signally Questioning
+	- Your conversational partner answers in a Questioning mode
+	- You cut them off (because Directing), not realizing you broke their expectations of the conversation
+- Aside: Misunderstanding
+	- Does not require trickery or bad faith
+	- A misunderstanding occurs when the listener gets a different meaning than the speaker intended after decoding the message
+- Transaction Analysis: Games
+	- Quick Summary of Transactional Analysis
+- Pulling it together
+	- Mismatched Expectations reads like a Game
+	- Many culture/locations expect Egalitarian speech (same mode in speaker and listener)
+	- The "mode switch" created in the listener mimics the Switch
+	- This creates competing goals in the listener: to "fix" the mode, switch mental tracks, or be on the back foot
+	- Note: this can happen even when the speaker was clear about the style they wanted, but was misunderstood
+- How does this work?
+	- The Receptive -> Expressive Switch: Speaker does Unexpected and repeated "interruptions"
+	- The Expressive -> Receptive Switch: Listener responses appear Unresponsive, slow, or uninterested
+	- The Interactive -> Didactic Switch: Speaker takes an Unfairly Long turns, or seems Unresponsive to attempts to take the conversation back
+	- The Didactic -> Interactive Switch: Listener does Unexpected and repeated "interruptions"
+- Examples?
+	- Door salesperson: Asks you a few questions without stating who they are, starts a friendly dialog, then cuts you off to give a long pre-prepared speech on roof repair.  This is a Receptive -> Expressive and Interactive -> Didactic switch
+- Adding onto the model
+	- Internal Dialects reframed as "Speaker Mistakes"
+	- External Dialects reframed as "Listener Mistakes"
+	- Questioning: Speaker expects responses, Listener expects time to answer.
+		- Interrogation: Speaker breaks contract by not giving time to answer (Expressive switch) or Never asking the question (Didactic switch)
+		- Service: Listener breaks contract by cutting off the question (Expressive switch) or by not giving complete responses (Didactic Switch)
+	- Observing: Speaker expects responses, Listener expects time to answer.
+		- Withdrawing: 
+		- Merging: 
+	- Storytelling: Speaker expects responses, Listener expects time to answer.
+		- Informing: Speaker breaks contract by getting annoyed at minor interruptions (Receptive switch) or  (Interactive switch)
+		- Performing: 
+	- Directing: Speaker expects responses, Listener expects time to answer.
+		- Commanding: 
+		- Suggesting: 
+- Where this doesn't apply
+	- Hierarchical conversation, where the Listener is /not/ expected to match the speaker's mode
+		- You don't interrupt at a Speech after all, you're supposed to Observe while they Storytell
+	- 
